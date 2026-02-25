@@ -33,7 +33,7 @@ Below are the certifications and badges earned through Microsoft Learn:
 
 ### 🎓 Applied Skills / Certifications
 - Microsoft Learn AI Challenge Completion
-- *(Add additional certifications here)*
+![Microsoft Learn AI Skills Challenge Certificate](Microsoft_Learn/Samaksh%20Tyagi%20Microsoft%20Learn%20AI%20Skills%20Challenge%20-%20Certificate%20of%20completion.png)
 
 ### 🏅 Learning Path Badges
 - *(Add completed learning paths here)*
